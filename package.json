@@ -1,0 +1,8 @@
+{
+    "scripts": {
+        "start": "concurrently \"cd backend && npm start\" \"cd frontend && npm start\""
+    },
+    "dependencies": {
+        "react-icons": "^5.4.0"
+    }
+}
